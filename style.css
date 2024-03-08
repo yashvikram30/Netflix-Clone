@@ -211,6 +211,7 @@ footer span{
     }
     .secImg video{
         width: 305px;
+        overflow: hidden;
     }
     .hero> :nth-child(1) {
         font-size: 32px;
@@ -241,6 +242,16 @@ footer span{
     .footer-item{
         align-items: center;
     }
+    section.first > div :nth-child(1) {
+        padding-top: 30px;
+        font-size: 32px;
+    }
+    section.first >div :nth-child(2) {
+        font-size: 18px;
+    }
+    .faq {
+        font-size: 18px;
+    }
 }
 @media screen and (max-width: 1300px) {
 
@@ -248,5 +259,11 @@ footer span{
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 25px;
+    }
+}
+@media screen and (max-width: 500px) {
+
+    .hero{
+        gap:3px;
     }
 }
