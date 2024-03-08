@@ -5,7 +5,7 @@ This project is a clone of the popular streaming platform Netflix, built using a
 ## Features
 
 - **Main Page**: The main landing page resembles the Netflix homepage, featuring a dynamic layout with rows of movies and TV shows.
-- **Navigation**: Navigation bar at the top of the page provides links to different sections of the website such as Home, TV Shows, Movies, My List, etc.
+- **Navigation**: Navigation bar at the top of the page provides links to different sections of the website such as Netflix Home, Language and Signing Out.
 - **Responsive Design**: The website is designed to be responsive, ensuring a seamless experience across various devices including desktops, tablets, and mobile phones.
 
 ## Technologies Used
